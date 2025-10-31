@@ -15,10 +15,13 @@ WHITE MENU
 DARKMODE MENU
 ![2](https://github.com/bbfmc22/pizzaria-fullstack/blob/main/Photo2MenuDark.png)
 
+CONFIRM ORDER
 ![4](https://github.com/bbfmc22/pizzaria-fullstack/blob/main/Photo4Confirm.png)
 
 PAYMENT
 ![5](https://github.com/bbfmc22/pizzaria-fullstack/blob/main/Photo5Payment.png)
+
+PAYMENT CONFIRM
 ![6](https://github.com/bbfmc22/pizzaria-fullstack/blob/main/Photo6PaymentConfirm.png)
 ---
 
