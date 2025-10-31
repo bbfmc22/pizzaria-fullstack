@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto fullstack de uma pizzaria com frontend em React e backend em Laravel.  
+Projeto fullstack (EM DESENVOLVIMENTO) de uma pizzaria com frontend em React e backend em Laravel.  
 Inclui autenticação com Laravel Breeze (React), carrinho de compras, temas, internacionalização e backend com MySQL.
 
 ---
