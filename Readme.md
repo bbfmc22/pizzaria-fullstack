@@ -6,6 +6,10 @@ Projeto fullstack de uma pizzaria com frontend em React e backend em Laravel.
 Inclui autenticação com Laravel Breeze (React), carrinho de compras, temas, internacionalização e backend com MySQL.
 
 ---
+![PT](https://github.com/bbfmc22/pizzaria-fullstack/blob/main/Photo1HomeMenu)
+![PT](https://github.com/bbfmc22/snackbar-landing-page/blob/main/LP-PT.png)
+![PT](https://github.com/bbfmc22/snackbar-landing-page/blob/main/LP-PT.png)
+---
 
 ## Tecnologias / Dependências usadas
 
